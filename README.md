@@ -1,4 +1,4 @@
-<h1 align="center">Hey < devs! >👋, I'm Hirusha suhan</h1>
+<h1 align="center"><>Hey devs! < / >👋, I'm Hirusha suhan</h1>
 <h3 align="center">CS Undergraduate | Tech Researcher | Technology Article Writer | Tech Enthusiast</h3>
 
 
