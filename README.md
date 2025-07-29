@@ -3,6 +3,7 @@
 <h3 align="center">CS Undergraduate | Tech Researcher | Technology Article Writer | Tech Enthusiast</h3>
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 300px></picture>
+- :school: I am a `Student` at [Faculty of Computers & Informatics](https://fas.uwu.ac.lk/computer-science-informatics/) at [Uva Wellassa University of Sri Lanka](https://www.uwu.ac.lk/).
 
 - 🌱 I’m currently learning **object-oriented programming with Java, data analysis, and web development while exploring how IT integrates with economics.**
 
