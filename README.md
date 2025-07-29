@@ -5,6 +5,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=30&pause=1000&color=19B800&width=435&lines=CS+Undergraduate;+Tech+Researcher;Article+Writer;Tech+Enthusiast;Exploring+Code;Crypto+Lover+%E2%A8%9D" alt="Typing SVG" /></a>
 </h3> 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 300px></picture>
+  
 - :school: I am a `Undergraduate` at the [Faculty of Computers & Informatics](https://fas.uwu.ac.lk/computer-science-informatics/) , [Uva Wellassa University of Sri Lanka](https://www.uwu.ac.lk/).
 
 - 🌱 I’m currently learning **object-oriented programming with Java, data analysis, and web development while exploring how IT integrates with economics.**
