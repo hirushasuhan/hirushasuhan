@@ -1,10 +1,11 @@
-<h1 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">Hey <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!👋, I'm Hirusha suhan</h1><br>
-<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px align="center">
- 
-<h3 align="center">CS Undergraduate | Tech Researcher | Technology Article Writer | Tech Enthusiast</h3>
-
+<h3 align="center">
+<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px align="center"></picture></h3>
+<h1 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">Hey <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!👋, I'm Hirusha suhan</h1>
+<h3 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=30&pause=1000&color=19B800&width=435&lines=CS+Undergraduate;+Tech+Researcher;Article+Writer;Tech+Enthusiast;Exploring+Code;Crypto+Lover+%E2%A8%9D" alt="Typing SVG" /></a>
+</h3> 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 300px></picture>
-- :school: I am a `Student` at [Faculty of Computers & Informatics](https://fas.uwu.ac.lk/computer-science-informatics/) at [Uva Wellassa University of Sri Lanka](https://www.uwu.ac.lk/).
+- :school: I am a `Undergraduate` at the [Faculty of Computers & Informatics](https://fas.uwu.ac.lk/computer-science-informatics/) , [Uva Wellassa University of Sri Lanka](https://www.uwu.ac.lk/).
 
 - 🌱 I’m currently learning **object-oriented programming with Java, data analysis, and web development while exploring how IT integrates with economics.**
 
